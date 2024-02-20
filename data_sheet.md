@@ -1,6 +1,6 @@
 # Datasheet Template
 
-As far as you can, complete the model datasheet. If you have got the data from the internet, you may not have all the information you need, but make sure you include all the information you do have. 
+Data source: https://archive.ics.uci.edu/dataset/228/sms+spam+collection
 
 ## Motivation
 
